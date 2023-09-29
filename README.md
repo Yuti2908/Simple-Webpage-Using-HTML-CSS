@@ -22,11 +22,36 @@ First off, I created two files, index.html for HTML code and style.css for integ
 3. The Font styles used here is Poppins which is imported in the CSS file. All the font, margins, colors and other specifications for style class wise is declared in the style.css.
 4. An extra feature of Light/Dark Mode as well as a search bar in NavBar has been added using Javascript within the index.html file. The style change is in css file.
 
+- Header:
+![](Screenshots/navbar.jpeg)
+
+- Hover on section "Community":
+![](Screenshots/hoversection.jpeg)
+
+- Hover on button "Sign In":
+![](Screenshots/hoverbutton.jpeg)
+
+- Search Bar:
+![](Screenshots/searchbar.jpeg)
+
+- Light Mode:
+![](Screenshots/lightmode.jpeg)
+
+- Dark Mode:
+![](Screenshots/darkmode.jpeg)
+
+- Footer:
+![](Screenshots/footer.jpeg)
 
 ## PART B
 
 Design a Website that looks like below:
+![](Screenshots/original.jpeg)
+
 
 ### Implementation
 
 First I created the NavBar and 3 boxes using HTML and CSS. Using a color pick tool, I extracted the color of each of the elements in screenshot, made changes accordingly. Then I generated the Lorem Ipsum text from Cupcake Lorem Ipsum tool and added in the respective places. Then comparing my work and the screenshot given, I adjusted the sizes and the margins for Navbar with the title left aligned, sections on the navbar right aligned, body with 10% margin from the left and right which applies on both the text and the boxes, with all text being justified.
+
+
+![](Screenshots/recreated.jpeg)
